@@ -1,0 +1,22 @@
+html{
+    margin: 0;
+}
+/* body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+} */
+p{
+    color: red;
+}
+
+.card{
+    width: 200px;
+    height: 350px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+.card img{
+    max-width: 100%;
+}
